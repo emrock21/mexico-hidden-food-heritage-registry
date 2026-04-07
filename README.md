@@ -79,7 +79,7 @@ recordDish(
 
 voteDish(uint256 id, bool like);
 
-totalDishes();
+totalDishes()
 
 ---
 
